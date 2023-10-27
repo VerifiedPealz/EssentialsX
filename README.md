@@ -79,7 +79,7 @@
 
                                                       ⚠️ Disclaimer
 
-- This tool is for educational purposes only. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
+- This tool is for educational purposes only. This tool was rebraned from Creal stealer to Peal steal due devs quiting on the project. It is coded for you to see how your files are simply stolen and how to take action. Do not use for illegal purposes. We are never responsible for illegal use. <bold>Educational purpose only!</bold>
 
                                                       🪪 License
 
