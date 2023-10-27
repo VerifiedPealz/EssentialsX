@@ -1,4 +1,4 @@
-<h1 align="center"> Creal Stealer </h1> 
+<h1 align="center"> Peal Stealer </h1> 
 <p align= "center"> <kbd> <img  src="https://i.imgur.com/MjoICHp.png"width="420"> </kbd><br><br>
 
 
@@ -55,7 +55,7 @@
  
                                                       ⬇️ Setup (Manual)
  
-- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Creal.py
+- First paste and save your webhook address instead of `"WEBHOOK HERE"` in Peal.py
 
 - If you use obfuscator it will be undetectable.
 
